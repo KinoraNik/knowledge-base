@@ -1,10 +1,9 @@
-site_url: https://kinoranik.github.io/knowledge-base/
 site_name: База знаний СкладПро
 site_description: Учебный проект технической документации
+site_url: https://kinoranik.github.io/knowledge-base/
 theme:
   name: material
+use_directory_urls: true
 nav:
-  - Главная: README.md
+  - Главная: index.md
   - Решение проблем: troubleshooting.md
-
-  # trigger build
