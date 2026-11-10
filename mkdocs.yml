@@ -5,3 +5,5 @@ theme:
 nav:
   - Главная: README.md
   - Решение проблем: troubleshooting.md
+
+  # trigger build
