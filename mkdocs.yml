@@ -1,0 +1,7 @@
+site_name: База знаний СкладПро
+site_description: Учебный проект технической документации
+theme:
+  name: material
+nav:
+  - Главная: README.md
+  - Решение проблем: troubleshooting.md
