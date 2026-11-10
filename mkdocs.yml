@@ -6,3 +6,4 @@ theme:
 nav:
   - Главная: index.md
   - Решение проблем: troubleshooting.md
+use_directory_urls: true
