@@ -3,7 +3,7 @@ site_description: Учебный проект технической докум�
 site_url: https://kinoranik.github.io/knowledge-base/
 theme:
   name: material
+  nav:
+    - Главная: index.md
+    - Решение проблем: troubleshooting.md
 use_directory_urls: true
-nav:
-  - Главная: index.md
-  - Решение проблем: troubleshooting.md
